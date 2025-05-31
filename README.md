@@ -125,9 +125,9 @@ const karan = {
 
 <div align="center">
   <p>If you like my work, consider buying me a coffee! ☕</p>
-  <a href="https://www.buymeacoffee.com/karan" target="_blank">
+ 
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" />
-  </a>
+ 
 </div>
 
 ---
