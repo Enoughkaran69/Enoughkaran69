@@ -1,30 +1,43 @@
-<h1 align="center">Hi there 👋, I'm @Enough_karan69</h1>
+<!-- Profile README - Enhanced by Copilot -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&width=435&lines=Passionate+Developer+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%93%9A;Always+Building+Something+Cool+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Karan+%F0%9F%91%8B;Web+Developer+%7C+AI+Enthusiast+%7C+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
----
-
-### 🔍 About Me
-
-- 👀 I’m interested in **Web Development, Mobile Apps, AI Projects, and Real-time Applications**
-- 🌱 I’m currently learning **React.js, Firebase, and Python**
-- 💞️ I’m looking to collaborate on **fun projects, open-source, and innovative apps**
-- 📫 How to reach me: **karankingrider@gmail.com** 
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: *I often code more than I sleep 😅*
+<div align="center">
+  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blueviolet?style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=Enoughkaran69&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views"/>
+  <br>
+  <a href="mailto:karankingrider@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Enoughkaran69"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+<h2 align="center">🔍 About Me</h2>
 
-<p>
+<div align="center">
+
+- 👨‍💻 &nbsp;I’m passionate about **Web Development, Mobile Apps, AI Projects, and Real-time Applications**
+- 🌱 &nbsp;Currently learning **React.js, Firebase, Python**
+- 🤝 &nbsp;Looking to collaborate on **fun projects, open-source, and innovative apps**
+- 📫 &nbsp;Reach me at: **karankingrider@gmail.com**
+- 😄 &nbsp;Pronouns: **He/Him**
+- ⚡ &nbsp;Fun fact: *I often code more than I sleep 😅*
+
+</div>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,androidstudio,python,git,github,vscode" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Enoughkaran69&show_icons=true&theme=radical" width="45%" />
@@ -33,11 +46,17 @@
 
 ---
 
-### 🌐 Connect with Me
+<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="mailto:karankingrider@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Enoughkaran69"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:karankingrider@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Enoughkaran69"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=120&section=footer"/>
 </p>
 
 <!---
