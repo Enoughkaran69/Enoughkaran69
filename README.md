@@ -27,33 +27,7 @@
 
 ---
 
-## 🎯 About Me
 
-
-
-```javascript
-const karan = {
-    location: "India 🇮🇳",
-    role: "Full-Stack Developer",
-    passion: ["Web Development", "Mobile Apps", "AI/ML", "Open Source"],
-    currentlyLearning: ["React.js", "Firebase", "Python", "Next.js"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄",
-    lifePhilosophy: "Code, Coffee, Repeat ☕",
-    
-    getRandomFact() {
-        const facts = [
-            "I often code more than I sleep 😅",
-            "Pizza is my debugging fuel 🍕",
-            "I have 47 unfinished side projects 📱"
-        ];
-        return facts[Math.floor(Math.random() * facts.length)];
-    }
-};
-```
-
-<br clear="right"/>
-
----
 
 ## 🛠️ Tech Arsenal
 
@@ -119,16 +93,16 @@ const karan = {
 
 
 
-
-
 ## 💝 Support My Work
 
 <div align="center">
   <p>If you like my work, consider buying me a coffee! ☕</p>
  
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" />
+  
  
 </div>
+
+
 
 ---
 
