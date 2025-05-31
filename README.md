@@ -1,11 +1,10 @@
-# 🌟 Karan's Digital Universe
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Crafting%20Digital%20Experiences%20%7C%20One%20Line%20at%20a%20Time&descAlignY=51&descAlign=center"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+there!+I'm+Karan+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Enthusiast;Building+Tomorrow's+Tech+Today" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+there!+I'm+Karan+%F0%9F%91%8B;Full-Stack+Developer+%7C;Building+Tomorrow's+Tech+Today" alt="Typing Animation" />
 </p>
 
 <div align="center">
@@ -30,7 +29,7 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 
 ```javascript
 const karan = {
@@ -107,7 +106,7 @@ const karan = {
 ## 🎨 Current Vibe
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=qmfw8ijxrw4hhsua2iw9wd6wi&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 </div>
 
 ---
@@ -121,21 +120,12 @@ const karan = {
 🤔 Exploring: Machine Learning and Web3 technologies
 💬 Ask me about: JavaScript, React, Python, or anything tech!
 📫 Reach me: karankingrider@gmail.com
-⚡ Fun fact: I collect vintage keyboards ⌨️
+
 ```
 
----
 
-## 🎯 2024 Goals
 
-- [ ] 🚀 Launch 3 major projects
-- [ ] 📚 Master Next.js & TypeScript
-- [ ] 🤝 Contribute to 10 open-source projects
-- [ ] 📱 Build my first mobile app
-- [ ] 🎓 Complete AI/ML certification
-- [ ] 💪 Maintain 365-day GitHub streak
 
----
 
 ## 💝 Support My Work
 
@@ -164,13 +154,8 @@ const karan = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
 </div>
 
----
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Enoughkaran69/Enoughkaran69/output/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
@@ -185,15 +170,3 @@ const karan = {
 
 ---
 
-<details>
-<summary>📈 More Stats</summary>
-<br>
-
-![Metrics](https://metrics.lecoq.io/Enoughkaran69?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&followup=1&lines=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&followup.sections=repositories&followup.indepth=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Asia%2FKolkata)
-
-</details>
-
-<!---
-Enoughkaran69/Enoughkaran69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
