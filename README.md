@@ -8,9 +8,9 @@
 ### 🔍 About Me
 
 - 👀 I’m interested in **Web Development, Mobile Apps, AI Projects, and Real-time Applications**
-- 🌱 I’m currently learning **React.js, Firebase, and Machine Learning**
+- 🌱 I’m currently learning **React.js, Firebase, and Python**
 - 💞️ I’m looking to collaborate on **fun projects, open-source, and innovative apps**
-- 📫 How to reach me: **enoughkaran69@gmail.com** or [Telegram](https://t.me/enough_karan69)
+- 📫 How to reach me: **karankingrider@gmail.com** 
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: *I often code more than I sleep 😅*
 
@@ -36,8 +36,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:enoughkaran69@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/enough_karan69"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:karankingrider@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Enoughkaran69"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
