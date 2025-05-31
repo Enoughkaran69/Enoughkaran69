@@ -101,13 +101,7 @@ const karan = {
   <img src="https://github-profile-trophy.vercel.app/?username=Enoughkaran69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" />
 </div>
 
----
 
-## 🎨 Current Vibe
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=qmfw8ijxrw4hhsua2iw9wd6wi&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-</div>
 
 ---
 
